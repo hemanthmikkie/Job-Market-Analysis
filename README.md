@@ -57,14 +57,15 @@ The dashboard enables users to:
 
 ---
 
-## 3. Job Market Insights Dashboard
+## 3. Salary Analysis Dashboard
 
-- Top Job Titles
-- Most Applied Job Titles
-- Most Viewed Job Titles
-- Experience Level Distribution
-- Work Type Distribution
-- Interactive Filters
+- Average Salary
+- Maximum Salary
+- Minimum Salary
+- Median Salary
+- Salary by Experience Level
+- Salary by Work Type
+- Salary by Pay Period
 
 ---
 
@@ -78,15 +79,14 @@ The dashboard enables users to:
 
 ---
 
-## 5. Salary Analysis Dashboard
+## 5. Job Market Insights Dashboard
 
-- Average Salary
-- Maximum Salary
-- Minimum Salary
-- Median Salary
-- Salary by Experience Level
-- Salary by Work Type
-- Salary by Pay Period
+- Top Job Titles
+- Most Applied Job Titles
+- Most Viewed Job Titles
+- Experience Level Distribution
+- Work Type Distribution
+- Interactive Filters
 
 ---
 
