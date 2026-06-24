@@ -109,31 +109,31 @@ The dashboard enables users to:
 
 ## Company Analysis Dashboard
 
-![Company Analysis Dashboard](Images/Company%20Analysis%20Dashboard.png)
+![Company Analysis Dashboard](Company%20Analysis%20Dashboard.png)
 
 ---
 
 ## Executive Analysis Dashboard
 
-![Executive Analysis Dashboard](Images/Executive%20Analysis%20Dashboard.png)
+![Executive Analysis Dashboard](Executive%20Analysis%20Dashboard.png)
 
 ---
 
 ## Job Market Insights Dashboard
 
-![Job Market Insights Dashboard](Images/Job%20Market%20Insights%20Dashboard.png)
+![Job Market Insights Dashboard](Job%20Market%20Insights%20Dashboard.png)
 
 ---
 
 ## Location Analysis Dashboard
 
-![Location Analysis Dashboard](Images/Location%20Analysis%20Dashboard.png)
+![Location Analysis Dashboard](Location%20Analysis%20Dashboard.png)
 
 ---
 
 ## Salary Analysis Dashboard
 
-![Salary Analysis Dashboard](Images/Salary%20Analysis%20Dashboard.png)
+![Salary Analysis Dashboard](Salary%20Analysis%20Dashboard.png)
 
 ---
 
@@ -167,49 +167,3 @@ git clone https://github.com/hemanthmikkie/Mikkie.git
 ---
 
 # 📁 Repository Structure
-
-```
-Job-Market-Analysis/
-│
-├── README.md
-├── LICENSE (Optional)
-│
-└── Images/
-    ├── Company Analysis Dashboard.png
-    ├── Executive Analysis Dashboard.png
-    ├── Job Market Insights Dashboard.png
-    ├── Location Analysis Dashboard.png
-    └── Salary Analysis Dashboard.png
-```
-
----
-
-# 📌 Note
-
-The original **Power BI (.pbix)** file and the **CSV dataset** are **not included** in this repository because they exceed GitHub's recommended file size limits.
-
-This repository is intended to showcase the dashboard design, visualizations, and analytical insights.
-
----
-
-# 🔮 Future Enhancements
-
-- Real-time Data Integration
-- Automated Data Refresh
-- Predictive Analytics
-- AI-powered Job Trend Forecasting
-- Enhanced Interactive Reports
-
----
-
-# 👨‍💻 Author
-
-**Thippavathi Hemanth Kumar**
-
-GitHub: https://github.com/hemanthmikkie/Mikkie
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving this repository a **⭐ Star** on GitHub.
